@@ -35,5 +35,5 @@ Repository contains a high-quality README file with description, screenshot, and
 Bootstrap documentation.
 Stack Overflow.
 
-## LINK TO REPO:
-## LINK TO WEB APP: 
+## LINK TO REPO: https://github.com/con118/quizly/
+## LINK TO WEB APP: https://con118.github.io/quizly/
